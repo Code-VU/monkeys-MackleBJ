@@ -32,4 +32,4 @@ def calculateTime():
 ## uncomment calculateTime() and run > python monkeyCalculator.py
 ## ***IMPORTANT*** please recomment before you submit/sync your assignment.
 ## OR YOUR TEST WILL NOT RUN
-calculateTime()
+# calculateTime()
